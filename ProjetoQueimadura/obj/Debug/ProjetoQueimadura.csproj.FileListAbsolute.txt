@@ -1,0 +1,12 @@
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\bin\Debug\ProjetoQueimadura.exe.config
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\bin\Debug\ProjetoQueimadura.exe
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\bin\Debug\ProjetoQueimadura.pdb
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.csproj.AssemblyReference.cache
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.csproj.SuggestedBindingRedirects.cache
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.FormMenu.resources
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.Properties.Resources.resources
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.csproj.GenerateResource.cache
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.csproj.CoreCompileInputs.cache
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.exe
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.pdb
+C:\Users\55149\source\repos\ProjetoQueimadura\ProjetoQueimadura\obj\Debug\ProjetoQueimadura.FormPrimeirosSocorros.resources
